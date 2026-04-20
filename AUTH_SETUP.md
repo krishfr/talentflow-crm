@@ -30,7 +30,7 @@ Backend runs on `http://localhost:5000`.
    - `npm install`
    - `npm run dev`
 
-Frontend runs on `http://localhost:5173`.
+Frontend runs on `https://talentflow-crm-1.onrender.com`.
 
 ## 3) Auth APIs
 

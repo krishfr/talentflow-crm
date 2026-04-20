@@ -10,7 +10,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: process.env.CLIENT_URL || 'http://localhost:5173',
+    origin: process.env.CLIENT_URL || 'https://talentflow-crm-1.onrender.com',
   })
 );
 app.use(express.json());
